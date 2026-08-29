@@ -37,7 +37,7 @@ pip install requests rich psutil
 🔗 Termux Version
 
 For Termux (Android) users, use the lightweight version without psutil:
-👉 TBF-SWISS-TERMUX-EDITION
+👉 https://github.com/TBF-of/TBF-SWISS-TERMUX-EDITION
 
 ---
 
