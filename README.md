@@ -18,8 +18,8 @@ A multi‑tool for Linux/PC with 21+ functions. Uses `psutil` for accurate syste
 ## ⚡ Installation
 
 ```bash
-git clone https://github.com/TBF-of/TBF-SWISS-PSUTIL.git
-cd TBF-SWISS-PSUTIL
+git clone https://github.com/TBF-of/TBF-SWISS-PSUTIL-EDITION.git
+cd TBF-SWISS-PSUTIL-EDITION
 pip install -r requirements.txt
 python3 tbf_swiss_psutil.py
 ```
